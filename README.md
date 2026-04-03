@@ -9,7 +9,7 @@ Currently pursuing a Master's degree in Data & AI.
 <br>
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rsterin&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rsterin&layout=compact&langs_count=8&exclude_repo=ft_transcendence&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rsterin&layout=compact&langs_count=8&exclude_repo=ft_transcendence&theme=github_dark)
 
 ---
 
